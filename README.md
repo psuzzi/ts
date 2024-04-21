@@ -1,4 +1,5 @@
 # ts
 Public repo with ts tests
 
-[Link to my-webserver folder](my-webserver/)
+[webserver to show your app](my-webserver/)
+[Setup node.js with TypeScript](my-webserver/)
