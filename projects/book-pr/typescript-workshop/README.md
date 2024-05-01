@@ -1,0 +1,2 @@
+# The TypeScript Workshop
+Contents and tests from "The TypeScript Workshop: A practical guide to confident, effective TypeScript programming" by Ben Grynhaus , Jordan Hudgens , Rayon Hunt, Matt Morgan, Wekoslav Stefanovski.
